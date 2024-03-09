@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello,My name is adem ladhari(أدم العذاري) im a third year computer science studen working on my final project,im currently learning react-native and react as a side project and looking to use github more and more !
 <!--
 **ademladhari/AdemLadhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
